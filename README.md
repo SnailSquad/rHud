@@ -1,5 +1,8 @@
 # rHud Ready to be used on ESX
 
+  0.00ms start
+  0.15ms on vehicle
+
   Easy to configure and 100% open source.
   
   On the HUD, there is the speedometer, status, other information.  
