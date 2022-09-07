@@ -5,6 +5,7 @@
 # Requirements
 
   ESX Framework Legacy or lower : https://github.com/esx-framework/esx-legacy
+  
   ESX Status : https://github.com/ESX-Org/esx_status
   
 # Instalation
