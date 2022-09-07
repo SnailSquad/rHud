@@ -14,3 +14,11 @@
   2. On server.cfg after requirements add " ensure rHud ".
   3. Start your server !
   4. Enjoy ;-)
+
+# Crédit
+
+Base california Seatbelt system just 'optimized' (Add Wait Lol)
+
+# Question or help
+
+https://discord.gg/MufswNm4wx
