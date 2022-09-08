@@ -5,7 +5,9 @@
 
   Easy to configure and 100% open source.
   
-  On the HUD, there is the speedometer, status, others informations.  
+  On the HUD, there is the speedometer, seatbelt systeme, status (Health, Shield, Eat, Drink), other information.
+
+  Shield auto hidden when you have no shields
   
   ![image](https://user-images.githubusercontent.com/92583258/188974418-fc3beefb-774b-430e-9c63-a50f51475046.png)
 
